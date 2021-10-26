@@ -1,0 +1,43 @@
+.bg-whies-chutti{
+    background-color: rgb(255 255 255 / 81%);
+}
+.main-menu > ul > li > a{
+    padding: 0 8px 15px 22px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #343a40 !important;
+}
+#logo_home h1 {
+    position: relative;
+    bottom: 5px;
+
+}
+.phone strong{
+    color: white;
+    font-size: 12px;
+}
+.phone i{
+    color: white;
+    font-size: 12px;
+}
+header{
+    padding: 0 !important;
+}
+.sticky #logo_home h1 {
+    position: relative;
+    bottom: 0px;
+}
+.sticky .main-menu > ul > li > a{
+    padding: 8px 8px 15px 22px;
+}
+.box_style_4, .box_style_2 {
+    background: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-bottom: 0;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    border: 1px solid #ddd;
+}
